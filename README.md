@@ -34,4 +34,6 @@ I am exploring small, focused contributions to the official Obsidian Importer ec
 - safer retry behavior for large imports
 - post-import audit and cleanup workflows
 
+Open issue: [OneNote import: add local summary and failure report for large migrations](https://github.com/obsidianmd/obsidian-importer/issues/580)
+
 The goal is to make migration tools more trustworthy for people moving years of notes into durable Markdown.

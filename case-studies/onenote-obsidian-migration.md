@@ -49,7 +49,8 @@ This work can be broken into small contributions to an importer project:
 - add a post-import audit command for empty notes, duplicate notes, and missing attachments
 - improve cleanup of common OneNote-to-Markdown formatting artifacts
 
+Upstream discussion: [obsidianmd/obsidian-importer#580](https://github.com/obsidianmd/obsidian-importer/issues/580)
+
 ## Privacy
 
 The workflow is designed to avoid publishing or storing private note content. Public documentation should describe the method and engineering tradeoffs without exposing account details, note titles, personal data, or imported content.
-
