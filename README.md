@@ -36,4 +36,6 @@ I am exploring small, focused contributions to the official Obsidian Importer ec
 
 Open issue: [OneNote import: add local summary and failure report for large migrations](https://github.com/obsidianmd/obsidian-importer/issues/580)
 
+Open PR: [Fix OneNote progress for skipped pages](https://github.com/obsidianmd/obsidian-importer/pull/581)
+
 The goal is to make migration tools more trustworthy for people moving years of notes into durable Markdown.
