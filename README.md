@@ -6,7 +6,7 @@ I build practical tools at the intersection of AI workflows, knowledge systems, 
 
 ### OneNote to Obsidian Migration Reliability
 
-Status: local workflow validated; upstream contribution candidate.
+Status: local workflow validated; checklist published; upstream contribution candidate.
 
 I recently built and tested a privacy-first workflow for moving a large OneNote knowledge base into Obsidian Markdown while preserving structure, attachments, and reviewability.
 
@@ -24,6 +24,8 @@ Why it matters:
 Reliable note migration is not just a file conversion problem. Large personal knowledge bases need completeness checks, failure visibility, privacy guarantees, and cleanup tools that preserve trust.
 
 Case study: [OneNote to Obsidian Migration Reliability](case-studies/onenote-obsidian-migration.md)
+
+Public checklist: [Obsidian Migration Checklist](https://github.com/fnnikita/obsidian-migration-checklist)
 
 ## Open Source Direction
 
